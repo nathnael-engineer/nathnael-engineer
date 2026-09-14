@@ -1,6 +1,6 @@
 # Hi, I'm Nathnael 👋
 
-Frontend & Mobile Developer passionate about building modern, responsive, and high-performance applications.
+Web & Mobile Developer passionate about building modern, responsive, and high-performance applications.
 
 ---
 
@@ -29,7 +29,7 @@ Flutter • Firebase
 Node.js • Express • MongoDB
 
 ### Tools
-Git • GitHub • VS Code • Trello
+Git • GitHub • VS Code • Scrum
 
 ---
 
@@ -39,15 +39,17 @@ Git • GitHub • VS Code • Trello
 A mobile application for tracking expenses and analytics.  
 Implemented real-time data synchronization, authentication, and Clean Architecture principles.
 
-### 🔹 Portfolio Website
-Modern developer portfolio built with React, Vite, TypeScript, and Tailwind CSS featuring responsive layouts and smooth UI interactions.
+### 🔹 API Explorer
+A developer-focused API testing environment for composing requests, inspecting structured responses, measuring latency, and restoring request history.
 
+### 🔹 Nebula
+A real-time weather intelligence app with offline-first architecture, interactive maps, and severe-weather alerts — engineered to stay fast and accurate on unstable connections.
 ---
 
 ## 📫 Connect With Me
 
-- Email: nathnaeltsegay2@gmail.com  
-- LinkedIn: https://linkedin.com/in/nathnael-tsegay-822200323  
+- Email: nathnael.engineer@gmail.com  
+- LinkedIn: https://linkedin.com/in/nathnael-engineer 
 - Pronouns: He/Him
 - Fun fact: I'm a fitness enthusiast who hits the gym regularly and enjoys long-distance running
 
