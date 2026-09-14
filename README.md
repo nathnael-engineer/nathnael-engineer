@@ -35,9 +35,8 @@ Git • GitHub • VS Code • Scrum
 
 ## 📱 Projects
 
-### 🔹 Expense Tracker (Flutter + Firebase)
-A mobile application for tracking expenses and analytics.  
-Implemented real-time data synchronization, authentication, and Clean Architecture principles.
+### 🔹 Expense Tracker
+A production-grade mobile system for recording, categorizing, and analyzing daily expenses with clean architecture and predictable state.
 
 ### 🔹 API Explorer
 A developer-focused API testing environment for composing requests, inspecting structured responses, measuring latency, and restoring request history.
