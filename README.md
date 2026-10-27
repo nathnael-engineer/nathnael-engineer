@@ -1,6 +1,4 @@
-# Hi, I'm Nathnael 👋
 
-# SOFTWARE ENGINEER
 
 
 <!---
